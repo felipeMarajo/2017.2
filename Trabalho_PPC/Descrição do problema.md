@@ -1,3 +1,5 @@
+Problema dos Babuínos atravessando o Cânion (Baboon Crossing problem)
+
 A passagem ao longo da corda segue estas regras:
   - Vários babuínos podem atravessar o cânion ao mesmo tempo, desde que todos estejam indo no mesmo sentido.
   - Babuínos se movendo em sentidos contrários irão produzir um impasse (os babuínos ficarão presos no meio da corda), porque é impossível para um babuíno passar sobre o outro, enquanto estiver suspenso sobre o canyon. Estando no meio da corda os babuínos também não sabem voltar.
